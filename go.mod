@@ -20,7 +20,7 @@ require (
 	github.com/fjl/gencodec v0.0.0-20191126094850-e283372f291f
 	github.com/flanglet/kanzi-go v1.9.0
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
-	github.com/goccy/go-json v0.7.4
+	github.com/goccy/go-json v0.9.11
 	github.com/gofrs/flock v0.8.1
 	github.com/golang/snappy v0.0.4
 	github.com/google/btree v1.0.1
@@ -44,7 +44,7 @@ require (
 	github.com/shirou/gopsutil/v3 v3.21.9
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.3
 	github.com/torquem-ch/mdbx-go v0.22.1
 	github.com/ugorji/go/codec v1.1.13
 	github.com/ugorji/go/codec/codecgen v1.1.13
@@ -54,14 +54,14 @@ require (
 	github.com/xsleonard/go-merkle v1.1.0
 	go.uber.org/atomic v1.9.0
 	golang.org/x/crypto v0.1.0
-	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
-	golang.org/x/sys v0.1.0
-	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
-	golang.org/x/tools v0.1.12
-	google.golang.org/grpc v1.41.0
+	golang.org/x/sync v0.1.0
+	golang.org/x/sys v0.7.0
+	golang.org/x/time v0.3.0
+	golang.org/x/tools v0.7.0
+	google.golang.org/grpc v1.56.3
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
-	google.golang.org/protobuf v1.27.1
-	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
+	google.golang.org/protobuf v1.30.0
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/olebedev/go-duktape.v3 v3.0.0-20200619000410-60c24ae608a6
 	pgregory.net/rapid v0.4.7
 )
