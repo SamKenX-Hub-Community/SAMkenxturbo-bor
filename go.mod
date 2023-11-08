@@ -9,7 +9,7 @@ require (
 	github.com/anacrolix/log v0.10.0
 	github.com/anacrolix/torrent v1.35.0
 	github.com/c2h5oh/datasize v0.0.0-20200825124411-48ed595a09d2
-	github.com/consensys/gnark-crypto v0.4.0
+	github.com/consensys/gnark-crypto v0.12.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v0.0.0-20180603214616-504e848d77ea
 	github.com/dlclark/regexp2 v1.4.0 // indirect
@@ -42,9 +42,9 @@ require (
 	github.com/quasilyte/go-ruleguard/dsl v0.3.6
 	github.com/rs/cors v1.8.0
 	github.com/shirou/gopsutil/v3 v3.21.9
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.5.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.2
 	github.com/torquem-ch/mdbx-go v0.22.1
 	github.com/ugorji/go/codec v1.1.13
 	github.com/ugorji/go/codec/codecgen v1.1.13
@@ -53,15 +53,16 @@ require (
 	github.com/wcharczuk/go-chart/v2 v2.1.0
 	github.com/xsleonard/go-merkle v1.1.0
 	go.uber.org/atomic v1.9.0
-	golang.org/x/crypto v0.1.0
-	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
-	golang.org/x/sys v0.1.0
+	golang.org/x/crypto v0.10.0
+	golang.org/x/sync v0.1.0
+	golang.org/x/sys v0.9.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
-	golang.org/x/tools v0.1.12
+	golang.org/x/tools v0.6.0
+	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c // indirect
 	google.golang.org/grpc v1.41.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.27.1
-	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/olebedev/go-duktape.v3 v3.0.0-20200619000410-60c24ae608a6
 	pgregory.net/rapid v0.4.7
 )
